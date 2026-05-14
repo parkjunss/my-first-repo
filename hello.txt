@@ -1,2 +1,3 @@
 "Hello, Git!" 
-"Feature 1의 변경사항" 
+"Feature 1 change" 
+"feature 2 change" 
